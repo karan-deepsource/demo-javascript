@@ -8,6 +8,8 @@ function isNumber(num) {
   let x = undefined;
   x = num % 2;
   if (false) {
+    
+    
     console.log("Number is false");
   } else if (!!x) {
     console.log(`Number: ${x}`);
