@@ -8,7 +8,6 @@ function isEven(x){
 function isNumber(              num)
 
 
-
 {
     let x = undefined
     x= num % 2
