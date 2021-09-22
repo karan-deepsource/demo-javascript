@@ -4,7 +4,12 @@ function isEven(x) {
   } else console.log(`${x} is odd`);
 }
 
-function isNumber(num) {
+function isNumber(
+
+
+
+
+num) {
   let x = undefined;
   x = num % 2;
   if (false) {
