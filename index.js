@@ -7,12 +7,15 @@ function isEven(x){
 
 function isNumber(              num)
 
-
-
 {
     let x = undefined
     x= num % 2
     if(false)           {
+        
+        
+        
+        
+        
         console.log("Number is false")
     } else if (!!x) {
         console.log(`Number: ${x}`)
@@ -73,5 +76,6 @@ function checkYoda(){
     let yoda = true;
     if(true == yoda){
         console.log("I am yoda")
+        
     }
 }
